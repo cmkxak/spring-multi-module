@@ -1,0 +1,3 @@
+rootProject.name = 'watssup'
+include 'watssup-db'
+include 'watssup-api'
